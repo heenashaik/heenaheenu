@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Heena Shaik</h1>
 <h3 align="center">A passionate frontend developer who loves to develop</h3>
+![](https://media-exp1.licdn.com/dms/image/C5616AQETGUpbIRvXtw/profile-displaybackgroundimage-shrink_350_1400/0/1642665080249?e=1654732800&v=beta&t=CJS-5EjVR7xab7Q7ivImzSCD_vWF3BA0YtCw8Lu4jW0)
 
-![](https://www.canva.com/design/DAE9ITcTJ1M/2TxV5j6AXMui_ZHZ-1I6DA/edit?utm_content=DAE9ITcTJ1M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 
 - 🔭 I’m currently working on this page. 
