@@ -1,11 +1,23 @@
 <h1 align="center">Hi 👋, I'm Heena Shaik</h1>
 <h3 align="center">A passionate frontend developer who loves to develop</h3>
 
+![](https://www.canva.com/design/DAE9ITcTJ1M/2TxV5j6AXMui_ZHZ-1I6DA/edit?utm_content=DAE9ITcTJ1M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heenashaik&label=Profile%20views&color=0e75b6&style=flat" alt="heenashaik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heenashaik" alt="heenashaik" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
 
 - 🔭 I’m currently learning **Machine Learning**
 
